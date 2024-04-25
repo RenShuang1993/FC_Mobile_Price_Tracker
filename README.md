@@ -27,4 +27,5 @@ Raspberry FC Mobile Price Tracker is a tool using a Raspberry Pi server to monit
      schedule.every().day.at("23:00").do(check_player_prices)
      ```
    - Subsequent running times will be adjusted dynamically based on the price update timings provided by Renderz.
-
+## Raspberry Pi
+1. **Systemd service**: at /etc/systemd/system/mycrawler.service
