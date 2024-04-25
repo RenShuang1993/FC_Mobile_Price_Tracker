@@ -1,0 +1,14 @@
+[Unit]
+Description=My Python Web Crawler
+After=network.target
+
+[Service]
+ExecStart= /usr/bin/python3 -u /path/to/your/script.py
+WorkingDirectory= /path/to/your
+Restart = always
+RestartSec = 30
+StatrtLimitBurst = 3 
+User=pi
+
+[Install]
+WantedBy=multi-user.target
