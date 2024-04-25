@@ -1,0 +1,5 @@
+name,project,ability,low_price,high_price
+Yassine Bounou,winterwild24_live_b,91,5400000,7000000
+Gianluigi Donnarumma,totw24_live_b,90,3000000,3800000
+Gianluigi Donnarumma,totw24_live_b,92,7500000,10000000
+Trent Alexander-Arnold,toty24_base2_b,91,5500000,70000000
