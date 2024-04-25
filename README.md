@@ -36,7 +36,7 @@ Raspberry FC Mobile Price Tracker is a tool using a Raspberry Pi server to monit
     ssid="YourNetworkSSID"
     psk="YourNetworkPassword"
     key_mgmt=WPA-PSK
-}
-```
+   }
+   ```
 
 
