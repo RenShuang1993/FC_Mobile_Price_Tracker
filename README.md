@@ -28,4 +28,15 @@ Raspberry FC Mobile Price Tracker is a tool using a Raspberry Pi server to monit
      ```
    - Subsequent running times will be adjusted dynamically based on the price update timings provided by Renderz.
 ## Raspberry Pi
+
 1. **Systemd service**: at /etc/systemd/system/mycrawler.service
+2. **Automatically connect to wifi when booting**: at /etc/wpa_supplicant/wpa_supplicant.conf
+   ```python
+   network={
+    ssid="YourNetworkSSID"
+    psk="YourNetworkPassword"
+    key_mgmt=WPA-PSK
+}
+```
+
+
