@@ -38,8 +38,13 @@ Raspberry FC Mobile Price Tracker is a tool using a Raspberry Pi server to monit
     key_mgmt=WPA-PSK
    }
    ```
-## Future Updates
+## Updates
 
-I am continuously working to enhance this project with new features. Upcoming updates will include additional functionalities such as using transistors (have been ordered and are currently on their way)  to control fan switches and more. Stay tuned for more improvements and enhancements!
+![Raspberry Pi Connection Circuit Diagram](Circuit_diagram.jpeg)
+
+![Actual Raspberry Pi Connection](RaspberryPi.jpg)
+
+![Raspberry Pi Pin Interface Diagram](header-3b.png)
+
 
 
